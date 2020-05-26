@@ -42,7 +42,7 @@
     "react-dom": "^16.0.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.9.0",
+    "@babel/core": "^7.10.0",
     "@babel/runtime": "^7.9.2",
     "@types/enzyme": "^3.10.5",
     "@types/enzyme-adapter-react-16": "^1.0.6",
